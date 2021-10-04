@@ -74,3 +74,4 @@ digitalWrite(Lane4[0], HIGH);
  delay(3000);
  digitalWrite(Lane2[1], LOW);
  digitalWrite(Lane1[1], LOW);
+ }
